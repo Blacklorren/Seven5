@@ -1,7 +1,7 @@
 # Handball Manager Simulation Framework
 
 ## Overview
-Event-driven sports simulation framework built with Unity, implementing core handball match mechanics through modular, DI-based architecture.
+Event-driven sports simulation framework built with Unity, implementing core handball match mechanics through modular, DI-based architecture. Inspired by Football Manager.
 
 ## Project Structure
 ```
